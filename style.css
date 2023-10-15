@@ -83,7 +83,7 @@ body {
 .header {
   padding: 5rem 0;
   background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("assets/header.jpg");
+    url("header.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -178,7 +178,7 @@ body {
 
 .banner {
   background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("assets/banner.jpg");
+    url("banner.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -259,7 +259,7 @@ body {
 
 .watch {
   background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("assets/watch.jpg");
+    url("watch.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -325,7 +325,7 @@ body {
 
 .connect {
   background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("assets/connect.jpg");
+    url("connect.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -432,7 +432,7 @@ body {
       var(--primary-color),
       transparent
     ),
-    url("assets/footer.jpg");
+    url("footer.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
